@@ -1,0 +1,23 @@
+.box1{
+    background-color: aqua;
+    font-size: 20px;
+}
+.box1 p{
+    color: white;
+}
+.box2{
+    background-color: red;
+    font-size: 18px;
+    
+}
+.box2 p{
+    color: white;
+}
+.box3{
+    background-color: greenyellow;
+    font-size: 16px;
+}
+.box3 p{
+    color: white;
+
+}

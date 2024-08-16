@@ -1,0 +1,32 @@
+.tea{
+    text-align: center;
+    background-color: greenyellow;
+    border: 20px solid green;
+}
+.tea p{
+    color: black;
+}
+.coffe{
+    text-align: center;
+    background-color: burlywood;
+    border: 20px solid brown;
+}
+.coffe p{
+    color: white;
+
+}
+.coffe h2{
+    color: white;
+
+}
+.juice{
+    text-align: center;
+    background-color: orange;
+    border: 20px solid black;
+}
+.juice p{
+    color: white;
+}
+.juice h2{
+    color: white;
+}

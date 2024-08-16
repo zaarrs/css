@@ -1,0 +1,27 @@
+#milkshake{
+    text-align: center;
+    background-color: purple;
+}
+#milkshake p{
+    color: white;
+}
+#milkshake h1{
+    color: white;
+}
+#smoothie{
+    background-color: greenyellow;
+    text-align: center;
+}
+#soda{
+    text-align: center;
+    background-color: red;
+
+}
+#soda p{
+    color: white;
+
+
+}
+#soda h1{
+    color: white;
+}
