@@ -1,0 +1,28 @@
+.ukuran-garis{
+    background-color: aqua;
+    width: 500px;
+    height: 300px;
+}
+.ukuran-persen{
+    background-color: blueviolet;
+    width: 5%
+    height: 5%;
+}
+.ukuran-em-rem h1{
+    background-color: greenyellow;
+    font-size: 5em;
+}
+.ukuran-em-rem h2{
+    background-color: greenyellow;
+    font-size: 5rem;
+}
+.ukuran-viewport h1{
+    background-color: aquamarine;
+    font-size: 5vw;
+}   
+.ukuran-viewport h2{
+    background-color: aquamarine;
+    font-size: 5vh;
+}
+
+
