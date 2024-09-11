@@ -1,0 +1,17 @@
+.banner-kim-junggo{
+    background-color: yellow;
+    overflow: auto;
+}
+.banner-kim-junggo img{
+    float: right;
+}
+.banner-jonggun{
+    background-color: black;
+    overflow: auto;
+}
+.banner-jonggun img{
+    float: left;
+}
+.banner-jonggun p{
+    color: white;
+}
