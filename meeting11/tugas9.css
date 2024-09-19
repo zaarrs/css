@@ -1,0 +1,13 @@
+.tugas{
+    background-color: aqua;
+}
+.tugas li{
+    list-style-type: none;
+}
+.tugas a{
+    text-decoration: none;
+    
+}
+.tugas a:hover{
+    background-color: white;
+}
