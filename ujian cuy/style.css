@@ -1,0 +1,77 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
+
+.bebas{
+    display: flex;
+    justify-content: center;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+    width: 500px;
+}
+
+
+
+
+.img{
+    margin-left: 10px;
+}
+.text-upper{
+    margin-left: 15px;
+    line-height: 4px;
+    font-family: "Inter", sans-serif;
+}
+
+
+.text-lower{
+    font-family: "Inter", sans-serif;
+    line-height: 7px;
+    margin-left: 30px;
+}
+.apa-kek{
+    margin-top: 50px;
+    color: grey;
+    font-family: "Inter", sans-serif;
+    margin-left: 30px;
+}
+.button button{
+    background-color: orangered;
+    border: none;
+    color: white;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 5px;
+    padding-top: 5px;
+    border-radius: 7px;
+    margin-left: 13px;
+}
+.button{
+    margin-left: 13px;
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 50px;
+    margin-top: 40px;
+}
+.button p{
+    color: grey;
+    font-family: "Inter", sans-serif;
+    margin-right: 13px;
+
+}
+.isi{
+    margin-left: 50px;
+    margin-right: 50px;
+}
+.bebas{
+    overflow: scroll;
+}
+.button-atas button{
+    background-color: orangered;
+    border: none;
+    color: white;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 5px;
+    padding-top: 5px;
+    border-radius: 7px;
+    margin-left: 420px
+    
+}
